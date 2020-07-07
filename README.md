@@ -15,19 +15,27 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 7. Samples from extracted section to test consistency in color and pattern (unless an image has really strage mask on!)
 8. Similarity match, if yes, Mask detected.
 
-![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/input_images/img.JPG?raw=true)
+Predictions :
+![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img.JPG?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img1.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img19.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img26.jpg?raw=true)
+
 
 
 
 
 Caveates:
 
-9. If image is blurred or dark, where human face and mask are not identified distinctly.
-10. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
-11. Face mask is not getting detected if mask color matches with skin color.
-12. False positive if detected face landmarks are incorrect and landmarks for mouth area are detected somewhere else on the face.
-11. Not all faces are detected in an image. 
-
-
 ![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
 ![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
+
+
+a. If image is blurred or dark, where human face and mask are not identified distinctly.
+b. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
+c. Face mask is not getting detected if mask color matches with skin color.
+d. False positive if detected face landmarks are incorrect and landmarks for mouth area are detected somewhere else on the face.
+e. Not all faces are detected in an image. 
+
+
+
