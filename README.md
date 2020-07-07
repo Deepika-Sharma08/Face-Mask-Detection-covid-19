@@ -16,10 +16,10 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 8. Similarity match, if yes, Mask detected.
 
 Predictions :
-![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img.JPG?raw=true)
-![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img1.jpg?raw=true)
-![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img19.jpg?raw=true)
-![alt text](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img26.jpg?raw=true)
+![image1](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img.JPG?raw=true)
+![image2](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img1.jpg?raw=true)
+![image3](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img19.jpg?raw=true)
+![image4](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img26.jpg?raw=true)
 
 
 
@@ -27,8 +27,8 @@ Predictions :
 
 Caveates:
 
-![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
-![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
+![image5](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
+![image6](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
 
 
 a. If image is blurred or dark, where human face and mask are not identified distinctly.
