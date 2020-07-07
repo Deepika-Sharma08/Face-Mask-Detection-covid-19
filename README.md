@@ -123,11 +123,11 @@ Caveates:
 ![image6](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
 
 
-a. If image is blurred or dark, where human face and mask are not identified distinctly.
-b. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
-c. Face mask is not getting detected if mask color matches with skin color.
-d. False positive if detected face landmarks are incorrect and landmarks for mouth area are detected somewhere else on the face.
-e. Not all faces are detected in an image. 
+1. If image is blurred or dark, where human face and mask are not identified distinctly.
+2. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
+3. Face mask is not getting detected if mask color matches with skin color.
+4. False positive if detected face landmarks are incorrect and landmarks for mouth area are detected somewhere else on the face.
+5. Not all faces are detected in an image. 
 
 
 
