@@ -17,11 +17,7 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 
 ![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img.JPG?raw=true)
 
-![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img1.jpg?raw=true)
 
-![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img19.jpg?raw=true)
-
-![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img26.jpg?raw=true)
 
 
 Caveates:
