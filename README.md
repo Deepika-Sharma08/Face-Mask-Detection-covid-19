@@ -18,6 +18,8 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 
 Caveates:
 
-a. If image is blurred or dark, where human face and mask are not identified distinctly 
+a. If image is blurred or dark, where human face and mask are not identified distinctly.
+
 b. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
+
 c. Not all faces are detected in an image. 
