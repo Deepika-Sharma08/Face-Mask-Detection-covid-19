@@ -11,7 +11,7 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 
 
 5. If two colors do not match, extract section of the face between (X) coordinates of left ear to right ear, nose to chin (Y) coordinates .
-6. Lip coordiates removal (in case if a face has make up but no mask)
+6. Lips coordiates removal (in case if a face has make up but no mask)
 7. Samples from extracted section to test consistency in color and pattern (unless an image has really strage mask on!)
 8. Similarity match, if yes, Mask detected.
 
