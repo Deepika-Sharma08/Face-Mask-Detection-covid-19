@@ -16,7 +16,33 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 8. Similarity match, if yes, Mask detected.
 
 Predictions :
+
+
+
+
+
+
 ![image1](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img.JPG?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![image2](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img1.jpg?raw=true)
 ![image3](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img19.jpg?raw=true)
 ![image4](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img26.jpg?raw=true)
