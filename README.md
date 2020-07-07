@@ -15,7 +15,10 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 7. Samples from extracted section to test consistency in color and pattern (unless an image has really strage mask on!)
 8. Similarity match, if yes, Mask detected.
 
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Wheat.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img1.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img19.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img26.jpg?raw=true)
 
 
 Caveates:
@@ -27,4 +30,5 @@ Caveates:
 11. Not all faces are detected in an image. 
 
 
-![alt text](https://github.com/Deepika-Sharma08/Wheat_head_prediction/blob/master/supporting_images/Wheat.png?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
+![alt text](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
