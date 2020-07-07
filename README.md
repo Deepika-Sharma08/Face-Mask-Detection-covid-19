@@ -22,6 +22,8 @@ Caveates:
 
 9. If image is blurred or dark, where human face and mask are not identified distinctly.
 10. Image clicked with low resolution and Face landmarks are not detected or Face landmarks are detected incorrectly.
+11. Face mask is not getting detected if mask color matches with skin color.
+12. False positive if detected face landmarks are incorrect and landmarks for mouth area are detected somewhere else on the face.
 11. Not all faces are detected in an image. 
 
 
