@@ -16,6 +16,7 @@ If face landmarks are appropriate for lips and nose and colors of samples are co
 8. Similarity match, if yes, Mask detected.
 
 Predictions :
+Results are looking pretty good. Algorithm is able to detect mask with good accuracy along with its color.
 
 
 
@@ -118,6 +119,8 @@ Predictions :
 
 
 Caveates:
+
+However, there are a few caveates to be addressed which I will take up soon ...
 
 ![image5](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
 ![image6](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
