@@ -1,11 +1,11 @@
 # Face-Mask-Detection-covid-19
-Face Mask Detection In Python Using OpenCV
+Face Mask Detection using Python OpenCV
 
 Psedo code: ONLY USING CPU!
 
 1. Face landmark detection. - Using Pre trained model 
 2. Tilt identification, if face is tilted.
-3. Skin color extraction : by taking various patches from face where mask can not exist.
+3. Skin color extraction : by taking various patches from face where mask can not exist like forehead, ears and area around eyes.
 4. Using 64 face landmarks, samples from cheeks(majorly) and nose to detect if skin color matches.
 If face landmarks are appropriate for lips and nose and colors of samples are consistent, No MASK!
 
@@ -23,7 +23,7 @@ Results are looking pretty good. Algorithm is able to detect mask with good accu
 
 
 
-![image1](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img.JPG?raw=true)
+![image1](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img.JPG?raw=true)
 
 
 
