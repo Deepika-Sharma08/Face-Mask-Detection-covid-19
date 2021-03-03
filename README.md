@@ -110,9 +110,9 @@ Results are looking pretty good. Algorithm is able to detect mask with good accu
 
 
 
-![image2](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img1.jpg?raw=true)
-![image3](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img19.jpg?raw=true)
-![image4](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/tree/master/output/img26.jpg?raw=true)
+![image2](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img1.jpg?raw=true)
+![image3](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img19.jpg?raw=true)
+![image4](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img26.jpg?raw=true)
 
 
 
@@ -122,8 +122,8 @@ Caveates:
 
 However, there are a few caveates to be addressed which I will take up soon ...
 
-![image5](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img7.jpg?raw=true)
-![image6](https://github.com/Deepika-Sharma08/Face-Mask-Detection-covid-19/tree/master/output/img12.jpg?raw=true)
+![image5](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img7.jpg?raw=true)
+![image6](https://github.com/Deepika-Sharma08/Face_Mask_Detection_covid_19/blob/master/output/img12.jpg?raw=true)
 
 
 1. If image is blurred or dark, where human face and mask are not identified distinctly.
